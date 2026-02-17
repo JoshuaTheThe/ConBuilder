@@ -1,0 +1,10 @@
+C	labial	alveolar	velar	uvular
+nasal	m	n	g	
+stop	p	t	k	q
+prenasal	mp	nt	nk	nq
+fricative		s th rh	h	
+approx		l r		
+V	front	back		
+close	i	u		
+open	æ~ə (e)	ɑ (a) ɤ̞~o̞ (o)		
+{C}V				
